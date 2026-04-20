@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/R4G/Desktop/ML%26DSProjects/Telco_Customer_Churn_Model/mlruns/273200537397394520/7db12c739e0448f88d9f19b125c6c00e/artifacts
+end_time: 1776451326287
+entry_point_name: ''
+experiment_id: '273200537397394520'
+lifecycle_stage: active
+run_id: 7db12c739e0448f88d9f19b125c6c00e
+run_name: adorable-hog-10
+run_uuid: 7db12c739e0448f88d9f19b125c6c00e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776451325576
+status: 4
+tags: []
+user_id: R4G

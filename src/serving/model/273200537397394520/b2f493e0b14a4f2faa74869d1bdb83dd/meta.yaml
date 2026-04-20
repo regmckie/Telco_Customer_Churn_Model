@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/R4G/Desktop/ML%26DSProjects/Telco_Customer_Churn_Model/mlruns/273200537397394520/b2f493e0b14a4f2faa74869d1bdb83dd/artifacts
+end_time: 1776451207410
+entry_point_name: ''
+experiment_id: '273200537397394520'
+lifecycle_stage: active
+run_id: b2f493e0b14a4f2faa74869d1bdb83dd
+run_name: casual-dolphin-694
+run_uuid: b2f493e0b14a4f2faa74869d1bdb83dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776451207337
+status: 4
+tags: []
+user_id: R4G

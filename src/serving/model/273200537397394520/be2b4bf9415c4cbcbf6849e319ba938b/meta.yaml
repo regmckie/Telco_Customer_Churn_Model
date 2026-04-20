@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/R4G/Desktop/ML%26DSProjects/Telco_Customer_Churn_Model/mlruns/273200537397394520/be2b4bf9415c4cbcbf6849e319ba938b/artifacts
+end_time: 1776452449771
+entry_point_name: ''
+experiment_id: '273200537397394520'
+lifecycle_stage: active
+run_id: be2b4bf9415c4cbcbf6849e319ba938b
+run_name: worried-mare-21
+run_uuid: be2b4bf9415c4cbcbf6849e319ba938b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776452443392
+status: 3
+tags: []
+user_id: R4G

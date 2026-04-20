@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/R4G/Desktop/ML%26DSProjects/Telco_Customer_Churn_Model/mlruns/273200537397394520/61b27fe38fe342b6a9bbb22c326993af/artifacts
+end_time: 1776449613011
+entry_point_name: ''
+experiment_id: '273200537397394520'
+lifecycle_stage: active
+run_id: 61b27fe38fe342b6a9bbb22c326993af
+run_name: zealous-newt-115
+run_uuid: 61b27fe38fe342b6a9bbb22c326993af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776449612887
+status: 4
+tags: []
+user_id: R4G

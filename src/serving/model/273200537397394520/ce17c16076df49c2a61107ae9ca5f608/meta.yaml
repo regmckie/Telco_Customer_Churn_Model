@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/R4G/Desktop/ML%26DSProjects/Telco_Customer_Churn_Model/mlruns/273200537397394520/ce17c16076df49c2a61107ae9ca5f608/artifacts
+end_time: 1776450824705
+entry_point_name: ''
+experiment_id: '273200537397394520'
+lifecycle_stage: active
+run_id: ce17c16076df49c2a61107ae9ca5f608
+run_name: worried-fly-939
+run_uuid: ce17c16076df49c2a61107ae9ca5f608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776450824542
+status: 4
+tags: []
+user_id: R4G

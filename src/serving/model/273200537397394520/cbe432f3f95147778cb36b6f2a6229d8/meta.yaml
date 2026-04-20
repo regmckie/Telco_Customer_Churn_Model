@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/R4G/Desktop/ML%26DSProjects/Telco_Customer_Churn_Model/mlruns/273200537397394520/cbe432f3f95147778cb36b6f2a6229d8/artifacts
+end_time: 1776448136195
+entry_point_name: ''
+experiment_id: '273200537397394520'
+lifecycle_stage: active
+run_id: cbe432f3f95147778cb36b6f2a6229d8
+run_name: glamorous-bird-605
+run_uuid: cbe432f3f95147778cb36b6f2a6229d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776448136057
+status: 4
+tags: []
+user_id: R4G

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/R4G/Desktop/ML%26DSProjects/Telco_Customer_Churn_Model/mlruns/273200537397394520/a1696bc0903c4964b5f1c09cc0f90af3/artifacts
+end_time: 1776451474125
+entry_point_name: ''
+experiment_id: '273200537397394520'
+lifecycle_stage: active
+run_id: a1696bc0903c4964b5f1c09cc0f90af3
+run_name: youthful-snail-478
+run_uuid: a1696bc0903c4964b5f1c09cc0f90af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776451466715
+status: 3
+tags: []
+user_id: R4G

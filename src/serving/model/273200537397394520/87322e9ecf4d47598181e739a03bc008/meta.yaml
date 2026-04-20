@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/R4G/Desktop/ML%26DSProjects/Telco_Customer_Churn_Model/mlruns/273200537397394520/87322e9ecf4d47598181e739a03bc008/artifacts
+end_time: 1776451026473
+entry_point_name: ''
+experiment_id: '273200537397394520'
+lifecycle_stage: active
+run_id: 87322e9ecf4d47598181e739a03bc008
+run_name: fun-hound-260
+run_uuid: 87322e9ecf4d47598181e739a03bc008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776451026392
+status: 4
+tags: []
+user_id: R4G

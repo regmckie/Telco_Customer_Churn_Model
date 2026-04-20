@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/R4G/Desktop/ML%26DSProjects/Telco_Customer_Churn_Model/mlruns/273200537397394520/40fb5f270cf34ba399681598e29d66ed/artifacts
+end_time: 1776451098037
+entry_point_name: ''
+experiment_id: '273200537397394520'
+lifecycle_stage: active
+run_id: 40fb5f270cf34ba399681598e29d66ed
+run_name: gregarious-conch-854
+run_uuid: 40fb5f270cf34ba399681598e29d66ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776451097945
+status: 4
+tags: []
+user_id: R4G

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/R4G/Desktop/ML%26DSProjects/Telco_Customer_Churn_Model/mlruns/273200537397394520/2ae689e1a8db4f5c97554cb316179fe0/artifacts
+end_time: 1776450501599
+entry_point_name: ''
+experiment_id: '273200537397394520'
+lifecycle_stage: active
+run_id: 2ae689e1a8db4f5c97554cb316179fe0
+run_name: hilarious-midge-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776450501503
+status: 4
+tags: []
+user_id: R4G
