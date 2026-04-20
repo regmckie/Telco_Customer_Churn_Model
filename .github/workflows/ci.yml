@@ -26,6 +26,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           context: .
-          file: ./dockerfile
+          file: ./Dockerfile
           push: true
           tags: regmckie314/telco-customer-churn-fastapi:latest
