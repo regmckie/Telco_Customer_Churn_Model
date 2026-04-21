@@ -46,7 +46,8 @@ This project built an end-to-end solution for predicting customer churn for the 
 
 ---
 
-### DEPLOYMENT FLOW
+### DEPLOYMENT FLOW:
+
 1. Push to main --> GitHub Actions builds the Docker image and pushes it to Docker Hub
 2. ECS service is updated (either manually or via the workflow) to force a new deployment
 3. ALB health checks hit on container's root path (/) on port 8000; once healthy, traffic is routed to the new task
